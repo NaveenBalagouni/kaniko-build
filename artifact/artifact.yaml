@@ -1,1 +1,1 @@
-artifactartifact
+echo "v1.0.0" > /mnt/git-repo/artifact
